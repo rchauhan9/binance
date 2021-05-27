@@ -1,6 +1,6 @@
 from typing import List
 
-from daily_data_point import DailyDataPoint
+from local.daily_data_point import DailyDataPoint
 
 
 class CoinData:

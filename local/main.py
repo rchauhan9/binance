@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from binance_service import BinanceService
+from local.binance_service import BinanceService
 
 if __name__ == '__main__':
     bs = BinanceService(api_key=os.environ.get('BINANCE_API_KEY'), secret_key=os.environ.get('BINANCE_SECRET_KEY'))

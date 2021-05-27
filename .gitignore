@@ -1,3 +1,4 @@
-currency_data.csv
+local/currency_data.csv
 .idea/
 venv
+client/node_modules
