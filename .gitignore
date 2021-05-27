@@ -1,4 +1,4 @@
-local/currency_data.csv
+currency/local/currency_data.csv
 .idea/
 venv
 client/node_modules

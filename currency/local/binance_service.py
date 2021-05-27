@@ -3,8 +3,8 @@ import datetime
 
 from typing import List
 
-from local.daily_data_point import DailyDataPoint
-from local.coin_data import CoinData
+from currency.local.daily_data_point import DailyDataPoint
+from currency.local.coin_data import CoinData
 
 
 class BinanceService:
